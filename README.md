@@ -6,7 +6,7 @@
 2. Download this repository and unzip it or git clone it
 3. Open the terminal or cmd prompt and run ```npm i``` 
 4. Fill in everything in ```./config.json```
-5. Run the bot by typing ```node .``` or  ```node index.js```
+5. Run the bot by typing ```node .``` or  ```node index.js``` in the terminal or your cmd prompt
 ---
 ### **✦ Contact:**
 - My Discord: `0hVxnom.#0666`
