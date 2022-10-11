@@ -5,5 +5,6 @@ module.exports = {
     once: true,
     async execute(client) {
         console.log(`${client.user.username} is now online.`);
+        
     },
 };
