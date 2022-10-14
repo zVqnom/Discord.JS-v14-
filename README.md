@@ -9,7 +9,7 @@
 5. Run the bot by typing ```node .``` or  ```node index.js``` in the terminal or your cmd prompt
 ---
 ### **✦ Contact:**
-- My Discord: `0hVxnom.#0666`
+- My Discord: `0hVxnom.#2313`
 ---
 #### **Subscribe to my youtube channel:**
 - [0hVqnom](https://www.youtube.com/channel/UCpf3TZSinJO5tTC57Mrb3AA)
